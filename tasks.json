@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Do all homeworks",
+        "description": "Do SD1 and Maths CSF homeworks",
+        "priority": "High",
+        "due_date": "2025-08-09"
+    },
+    {
+        "name": "go to the library",
+        "description": "borrow books",
+        "priority": "Low",
+        "due_date": "2025-07-09"
+    },
+    {
+        "name": "go to the Food City",
+        "description": "buy fruits",
+        "priority": "Medium",
+        "due_date": "2025-04-20"
+    },
+    {
+        "name": "do coursework",
+        "description": "do Sd1 coursework",
+        "priority": "High",
+        "due_date": "2025-04-21"
+    }
+]
